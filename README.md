@@ -27,10 +27,18 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-pytho
 - [Azure IP Ranges](https://azureipranges.azurewebsites.net/)
 - [m365maps](https://m365maps.com/)
 - [Windows Security Log Events Encyclopedia](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx)
-## Github repositories
 - [KQL search](https://kqlsearch.com/)
 
+- 
+## Github repositories
+- [Microsoft Sentinel and Microsoft 365 Defender](https://github.com/Azure/Azure-Sentinel)
+- [sysmon-modular | A Sysmon configuration repository for everybody to customise](https://github.com/olafhartong/sysmon-modular)
+- [Microsoft Defender for Endpoint curated list of resources for DFIR](https://github.com/cyb3rmik3/MDE-DFIR-Resources)
 - [MicrosoftSentinel-MultitenantXDRIncidents](https://github.com/mikoiv/MicrosoftSentinel-MultitenantXDRIncidents)
+- [Microsoft-Blue-Forest](https://github.com/rootsecdev/Microsoft-Blue-Forest)
+- [Hybrid Brothers Projects](https://github.com/HybridBrothers/Hybrid-Brothers-Projects)
+- [Microsoft Threat Intelligence](https://github.com/microsoft/mstic)
+- [ROADtools](https://github.com/dirkjanm/ROADtools)
 
 ## Blogs, and Training
 
