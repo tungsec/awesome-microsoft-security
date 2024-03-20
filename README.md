@@ -7,4 +7,4 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-pytho
 
 
 ## Training
-- [Microsoft Security Academy¶](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy)
+- [Microsoft Security Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy)
