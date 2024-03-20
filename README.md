@@ -22,14 +22,27 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-pytho
 
 ### Microsoft Sentinel
 
+### Microsoft Defender for Cloud
+
+### Microsoft Defender for Cloud Apps
+
+### Microsoft Defender for Endpoint
+
+### Microsoft Defender for Identity
+
+### Microsoft Defender for Office 365
+
+### Microsoft Defender for IoT
+
+### Microsoft Defender XDR
+
 ## Tools
 
 - [Azure IP Ranges](https://azureipranges.azurewebsites.net/)
 - [m365maps](https://m365maps.com/)
 - [Windows Security Log Events Encyclopedia](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx)
 - [KQL search](https://kqlsearch.com/)
-
-- 
+ 
 ## Github repositories
 - [Microsoft Sentinel and Microsoft 365 Defender](https://github.com/Azure/Azure-Sentinel)
 - [sysmon-modular | A Sysmon configuration repository for everybody to customise](https://github.com/olafhartong/sysmon-modular)
@@ -53,6 +66,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-pytho
 - [Blog by Morten Knudsen about Microsoft Security, Azure, M365 & Automation](https://mortenknudsen.net/)
 - [Hybrid Brothers](https://hybridbrothers.com/)
 - [My Faber Security](https://myfabersecurity.com/)
+- [dirkjanm.io](https://dirkjanm.io/)
 
 ### Training
 
